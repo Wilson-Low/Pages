@@ -1,4 +1,5 @@
 # Wilson Low
+**Sections**: [Programming Languages](https://github.com/Wilson-Low/Wilson-Low.github.io#programming-languages) 
 ![pic](triton.jpg)  
 [My home away from home](https://ucsd.edu/)  
 ## Programming Languages
