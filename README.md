@@ -1,5 +1,5 @@
 # Wilson Low
-![pic](triton.png)  
+![pic](triton.jpg)  
 [My home away from home](https://ucsd.edu/)  
 ## Programming Languages
 - Java
